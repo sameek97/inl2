@@ -1,0 +1,17 @@
+@media(max-width:768px){
+    .header {
+        background-image: url(../img/headercrop.png);
+        height: 920px;
+        width: 680px;
+    }
+    * {
+        overflow-x: hidden;
+    }
+    .meny img{
+        float: right;
+        
+    }
+    .navbar {
+        display: none;
+    }
+}
